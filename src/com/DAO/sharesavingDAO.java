@@ -337,7 +337,7 @@ public class sharesavingDAO {
 				System.out.println("DBms connection success!!");
 
 				sql = "INSERT INTO sharesaving(shareno,id,title,current_amount,target_amount,time,masterid) values(?,?,?,?,?,now(),?)";
-
+				
 				pst = conn.prepareStatement(sql);
 				pst.setInt(1, tmpno);
 				pst.setString(2, loginid);

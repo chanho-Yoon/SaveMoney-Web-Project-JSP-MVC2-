@@ -18,17 +18,10 @@
 	<link rel="stylesheet" href="assets/css/noscript.css" />
 </noscript>
 </head>
+<style>
 
+</style>
 <body>
-
-	<div id="header">
-		<nav id="nav">
-			<ul>
-				<li><a href="index.jsp">Home</a></li>
-				<li><a href="left-sidebar.html">Information</a></li>
-			</ul>
-		</nav>
-	</div>
 	<div id="content">
 		<a href="index.jsp" id="logo">Saving or Not</a> <br>
 		<p style="font-size: 2.2em">Join</p>
