@@ -35,7 +35,12 @@ public class FrontController extends HttpServlet {
 
 		String uri = request.getRequestURI();
 		String path = request.getContextPath();
+		System.out.println("uri : " + uri);
+		System.out.println("path : " + path);
+		
 		uri = uri.substring(path.length() + 1);
+		
+		System.out.println("last path : " + uri);
 		String command = uri;
 		String nextPage = "";
 		
