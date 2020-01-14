@@ -9,4 +9,4 @@
 ## 정리
     티스토리 블로그 : https://studyingych.tistory.com/21
 ## 간단한 시연영상
-    <iframe width="640" height="360" src="https://play-tv.kakao.com/v/405624719" frameborder="0" gesture="media" allowfullscreen=""></iframe>
+    https://play-tv.kakao.com/v/405624719
