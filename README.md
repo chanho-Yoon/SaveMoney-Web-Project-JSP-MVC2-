@@ -7,6 +7,6 @@
 뒤늦게 깃허브를 시작하면서 알게된 것. 보안을 위해서는 DB Connection ID와 PW는 따로 파일로 만들어 관리하고 깃허브에는 올라가지 않도록 ignore설정도 해줘야겠다.
 
 ## 정리
-    [티스토리 블로그]("https://studyingych.tistory.com/21")
+- [티스토리 블로그]("https://studyingych.tistory.com/21")
 ## 간단한 시연영상
-    https://play-tv.kakao.com/v/405624719
+- [시연연상]("https://play-tv.kakao.com/v/405624719")
